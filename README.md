@@ -13,11 +13,11 @@ SOCKET_TOKEN='{.self}'
 5) back to menu, click 2 for launch
 
 6) open volume mixer, when you look at apps, there will be "python" or "webview" or "chrome" -> suboption 
-set output to go to desired Cable-{}
+set output to go to desired Cable-{}. the user will put the command between pipes. 
+
 
 7) TESTING will set random voices, allowing for testing. then in Streamlabs, use messsagetemplate for custom voice testing -> commands. By default, the delimiter is "|".
-8) Use Streamlabs Tipping Alertbox Test https://streamlabs.com/dashboard#/alertbox/general/tipping. Update the message delay for TTS under Message Template (set message template enable) and add 5s to text delay.  the user will put the command between pipes. 
-
+8) Use Streamlabs Tipping Alertbox Test https://streamlabs.com/dashboard#/alertbox/general/tipping. Update the message delay for TTS under Message Template (set message template enable) and add 5s to text delay.  
 example
 
 ```|tomfoolery| hi im tom```
