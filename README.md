@@ -27,3 +27,5 @@ example:
 
 or
 ```|tf| hi Im tom```
+
+the commands are set by launching the bat file and selecting 1
