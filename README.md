@@ -16,8 +16,11 @@ SOCKET_TOKEN='{.self}'
 set output to go to desired Cable-{}
 
 7) TESTING will set random voices, allowing for testing. then in Streamlabs, use messsagetemplate for custom voice testing -> commands
+
 By default, the delimiter is "|"
+
 Use Streamlabs Tipping Alertbox Test https://streamlabs.com/dashboard#/alertbox/general/tipping
+
 Update the message delay for TTS under Message Template (set message template enable) and add 5s to text delay
 
 so the user will put the command between pipes. 
