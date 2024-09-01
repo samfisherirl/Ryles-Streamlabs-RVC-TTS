@@ -1,6 +1,8 @@
 # Ryles-Streamlabs-RVC-TTS
 
-Hear it in action:
+Have celebrities or friends of the stream read out donations. 
+
+### Hear it in action:
 
 https://github.com/user-attachments/assets/a4a4987c-b577-4a85-a10e-0bb01f383e26
 
@@ -27,7 +29,7 @@ Requirements:
 
 ```env
 
-ALERT_URL='{this_is_the_alert_box_url}'
+ALERT_URL='{this_is_the_alert_box_url}' # THIS CAN BE FOUND HERE https://streamlabs.com/dashboard#/alertbox/general/tipping
 SOCKET_TOKEN='{.self}'
 ```
 5) back to menu, click 2 for launch
