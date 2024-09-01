@@ -19,12 +19,15 @@ set output to go to desired Cable-{}.
 
 7) TESTING will set random voices, you cannot customize the TTS test message. By default, the delimiter is "|" for user commands via tts. the listener window will print the model chosen prior to audio playing.  
 
+
 example: 
 
 ```|tomfoolery| hi im tom```
 
 or
+
 ```|tf| hi Im tom```
+
 
 
 8) Use Streamlabs Tipping Alertbox Test https://streamlabs.com/dashboard#/alertbox/general/tipping. Update the message delay for TTS under Message Template (set message template enable) and add 5s to text delay.  
