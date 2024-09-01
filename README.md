@@ -13,7 +13,7 @@ SOCKET_TOKEN='{.self}'
 ```
 5) back to menu, click 2 for launch
 
-6) open volume mixer, when you look at apps, there will be "python" or "webview" or "chrome" -> suboption 
+6) open volume mixer, when you look at apps, there will be "python" or "webview" or "edge" or "chrome" -> suboption 
 set output to go to desired Cable-{}. 
 
 
