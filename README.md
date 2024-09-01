@@ -25,7 +25,7 @@ SOCKET_TOKEN='{.self}'
 5) back to menu, click 2 for launch
 
 6) open volume mixer, when you look at apps, there will be "python" or "webview" or "edge" (with denotation for webview) or "chrome" (with denotation for webview) ->  
-set output to go to desired Cable-{}. 
+set output to go to desired virtual Cable-{}. 
 
 
 7) TESTING will set random voices, you cannot customize the TTS test message. By default, the delimiter is "|" for user commands via tts. the listener window will print the model chosen prior to audio playing.
