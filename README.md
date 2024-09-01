@@ -19,6 +19,6 @@ By default, the delimiter is "|"
 so the user will put the command between pipes. 
 
 example
-|tomfoolery| hi im tom
+```|tomfoolery| hi im tom```
 or
-|tf| hi Im tom
+```|tf| hi Im tom```
