@@ -3,9 +3,9 @@
 
 1) get a socket_token
 https://streamlabs.com/dashboard#/settings/api-settings
-2)  launch bat file
+2)  launch bat file and press 1 to set commands
 
-3) setup commands and .env file
+3) define .env file
 ```env
 
 TOKEN='{this_is_the_alert_box_url}'
