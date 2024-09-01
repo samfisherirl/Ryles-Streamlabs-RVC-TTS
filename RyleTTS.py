@@ -1,3 +1,5 @@
+"""used for setting commands for the TTS"""
+
 from dotenv import load_dotenv, set_key  # Required to manage .env file easily
 from tkinter import ttk
 import os
@@ -293,7 +295,9 @@ class FileViewer:
             self.env_path.write_text("ALERT_URL=")
         load_dotenv(self.env_path)
 
- 
+
+
+# Example usage
 if __name__ == "__main__":
     root = tk.Tk()
     sv_ttk.set_theme("dark")

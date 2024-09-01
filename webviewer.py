@@ -1,3 +1,5 @@
+"""webview for showing alert box and listening for the audio to convert"""
+
 import webview
 import os
 from dotenv import load_dotenv, set_key 

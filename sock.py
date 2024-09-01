@@ -1,3 +1,5 @@
+"""socket for api donation management"""
+
 import socketio
 import re
 from dotenv import load_dotenv, set_key  # Required to manage .env file easily
