@@ -3,7 +3,9 @@
 Requirements:
 
   This Project https://github.com/samfisherirl/Ryles-Streamlabs-RVC-TTS/releases
+  
   RVC Studio (direct download links)
+  
   Nvidia:
     https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/main/RVC1006Nvidia.7z 
   Intel/AMD:
