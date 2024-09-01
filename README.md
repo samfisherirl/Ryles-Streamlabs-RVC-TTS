@@ -1,5 +1,9 @@
 # Ryles-Streamlabs-RVC-TTS
 
+See it in action:
+
+https://github.com/user-attachments/assets/a4a4987c-b577-4a85-a10e-0bb01f383e26
+
 Requirements:
 
   This Project https://github.com/samfisherirl/Ryles-Streamlabs-RVC-TTS/releases
@@ -18,6 +22,9 @@ Requirements:
 2)  launch bat file and press 1 to set commands
 
 3) define .env file
+
+
+
 ```env
 
 TOKEN='{this_is_the_alert_box_url}'
