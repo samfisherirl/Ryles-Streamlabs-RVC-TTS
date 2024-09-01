@@ -1,6 +1,6 @@
 # Ryles-Streamlabs-RVC-TTS
 
-See it in action:
+Hear it in action:
 
 https://github.com/user-attachments/assets/a4a4987c-b577-4a85-a10e-0bb01f383e26
 
