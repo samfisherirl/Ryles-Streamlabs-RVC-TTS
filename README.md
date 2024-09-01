@@ -1,5 +1,15 @@
 # Ryles-Streamlabs-RVC-TTS
-0) download https://github.com/samfisherirl/Ryles-Streamlabs-RVC-TTS/releases
+
+Requirements:
+
+  This Project https://github.com/samfisherirl/Ryles-Streamlabs-RVC-TTS/releases
+  RVC Studio (direct download links)
+  Nvidia:
+    https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/main/RVC1006Nvidia.7z 
+  Intel/AMD:
+    https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/main/RVC1006AMD_Intel.7z
+  - Socket Token:
+    https://streamlabs.com/dashboard#/settings/api-settings
 
 1) get a socket_token
 https://streamlabs.com/dashboard#/settings/api-settings
