@@ -66,6 +66,7 @@ ________________
 
 9) For the Browser Alert Box, to reduce resources, you can use the provided Browser window and capture with a chroma/color key (white background).
 
+________________
 
 - the commands are set by launching the bat file and selecting 1
 
