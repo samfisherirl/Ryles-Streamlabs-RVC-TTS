@@ -27,7 +27,7 @@ Requirements:
 
 ```env
 
-TOKEN='{this_is_the_alert_box_url}'
+ALERT_URL='{this_is_the_alert_box_url}'
 SOCKET_TOKEN='{.self}'
 ```
 5) back to menu, click 2 for launch
