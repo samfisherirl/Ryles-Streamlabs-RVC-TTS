@@ -1,4 +1,5 @@
 # Ryle-s-Streamlabs-RVC-TTS
+0) download https://github.com/samfisherirl/Ryles-Streamlabs-RVC-TTS/releases/download/v0.9/RyleTTS.7z
 
 1) get a socket_token
 https://streamlabs.com/dashboard#/settings/api-settings
