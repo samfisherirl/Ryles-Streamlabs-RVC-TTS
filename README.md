@@ -17,7 +17,7 @@ SOCKET_TOKEN='{.self}'
 set output to go to desired Cable-{}. 
 
 
-7) TESTING will set random voices, allowing for testing. then in Streamlabs, use messsagetemplate for custom voice testing -> commands. By default, the delimiter is "|". the user will put the command between pipes.
+7) TESTING will set random voices, you cannot customize the TTS test message. By default, the delimiter is "|" for user commands via tts. the listener window will print the model chosen prior to audio playing.  
 
 example: 
 
