@@ -28,7 +28,6 @@ example user donation:
 
 ```|tomfoolery| hi im tom```
 
-________________
 
 
 example command: 
@@ -38,6 +37,7 @@ example command:
 example user donation:
 
 ```|tf| hi Im tom```
+________________
 
 
 
