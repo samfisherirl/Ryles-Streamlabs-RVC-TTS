@@ -29,3 +29,4 @@ or
 ```|tf| hi Im tom```
 
 the commands are set by launching the bat file and selecting 1
+![image](https://github.com/user-attachments/assets/79f6f47f-2125-43c3-ab2e-74862ed8966e)
