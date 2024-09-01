@@ -30,5 +30,6 @@ or
 8) Use Streamlabs Tipping Alertbox Test https://streamlabs.com/dashboard#/alertbox/general/tipping. Update the message delay for TTS under Message Template (set message template enable) and add 5s to text delay.  
 
 
-the commands are set by launching the bat file and selecting 1
+- the commands are set by launching the bat file and selecting 1
+
 ![image](https://github.com/user-attachments/assets/79f6f47f-2125-43c3-ab2e-74862ed8966e)
