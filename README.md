@@ -6,9 +6,9 @@ Requirements:
   
   RVC Studio (direct download links)
   
-  Nvidia:
+-  Nvidia:
     https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/main/RVC1006Nvidia.7z 
-  Intel/AMD:
+-  Intel/AMD:
     https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/main/RVC1006AMD_Intel.7z
   - Socket Token:
     https://streamlabs.com/dashboard#/settings/api-settings
