@@ -18,7 +18,7 @@ set output to go to desired Cable-{}.
 
 
 7) TESTING will set random voices, you cannot customize the TTS test message. By default, the delimiter is "|" for user commands via tts. the listener window will print the model chosen prior to audio playing.
-
+________________
 
 example command: 
 
@@ -28,6 +28,7 @@ example user donation:
 
 ```|tomfoolery| hi im tom```
 
+________________
 
 
 example command: 
