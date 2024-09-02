@@ -1,4 +1,4 @@
-# Ryles-Streamlabs-RVC-TTS
+# Ryle's Streamlabs RVC TTS
 
 Have celebrities or friends of the stream read out donations. 
 
