@@ -21,7 +21,7 @@ Requirements:
     https://streamlabs.com/dashboard#/settings/api-settings
     - click "API tokens" tab
 
-1) Install Requirements and get a socket_token. Place my application in the main dir for RVC 
+1) Download Requirements and get a socket_token. Place my application in the main dir for RVC 
 
 3) define .env file
 
