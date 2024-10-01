@@ -40,8 +40,9 @@ SOCKET_TOKEN='{.self}'
 
 4) Run a single TEST donation by visiting the Tipping url for your popup donations page, run TEST once to have Webview configured 
 https://streamlabs.com/dashboard#/alertbox/general/tipping
+![image](https://github.com/user-attachments/assets/0ef10639-e7c9-4ab0-9d74-33ef3d705101)
 
-6) open volume mixer, when you look at apps, there will be "python" or "webview" or "edge" (with denotation for webview) or "chrome" (with denotation for webview) ->  
+5) open volume mixer, when you look at apps, there will be "python" or "webview" or "edge" (with denotation for webview) or "chrome" (with denotation for webview) ->  
 set output to go to desired virtual Cable-{}.  Warning - Webview might not show up on volume mixer until a TTS is played. 
 
 ![image](https://github.com/user-attachments/assets/906c2f91-a2ae-4ecc-9e1c-01ffab6206d9)
